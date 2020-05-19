@@ -7,7 +7,7 @@ int main() {
     char ch = getchar();
 
     if (isalpha(ch)) {
-        printf("the %c is a alphabet\n", ch);
+        printf("the %c is an alphabet\n", ch);
     } else {
         printf("your input is not alphabet\n");
     }
